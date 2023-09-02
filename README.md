@@ -22,5 +22,5 @@ Screenshots :
 ![image](https://github.com/HARSHALJETHWA19/Banking-futurereadytalent/assets/89203079/1e9b2c4d-70dd-4f8b-ac96-a44f50f555da)
 
 
-BY Harshal Jethwa and Yash Patel
+BY Raj Bapodra
 
